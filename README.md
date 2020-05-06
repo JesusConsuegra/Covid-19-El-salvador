@@ -1,0 +1,2 @@
+# Covid-19-El-salvador
+A partir de los datos del COVID-19 (casos, muertes) para diferentes países de Sudamérica, desarrollar un aplicativo en Java con GUI que haga uso de la librería libre GPL weka. La aplicación debe permitir cargar los datos desde un archivo .csv y generar la regresión lineal matemática y gráfica de los datos. Así mismo se debe hacer uso el algoritmo de clustering Simple KMeans con los datos escogidos para imprimir 3 centroides de los datos. Se sugiere obtener los datos desde https://covid19info.live/
